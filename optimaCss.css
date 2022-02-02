@@ -1,0 +1,140 @@
+.grid-container {
+  display: grid; 
+  grid-area: header;
+  grid-gap: 2px;
+  padding:5px;
+}
+div>nav
+{
+  background: linear-gradient(to top left, #33ccff 0%, #ff99cc 100%);
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;}
+.Accueilenvert
+{
+  color: green;
+}
+ div div nav ul li
+ {
+  clear: both;
+  font-size: 30px;
+  margin-left: 30px;}
+ 
+ div div div img
+ {
+  margin-left: 200px;
+ }
+ div div div > h2
+ {
+  margin-left: 30px;
+  color: white;
+  margin-left: 40px; 
+ }
+
+ div div div div
+ {
+  width: 677;
+  height: 582
+ }
+ .long_photo
+ {
+  background-color: teal;
+  margin:"50px;";
+  height: 400px;
+}
+
+.enbas2
+{
+font-size: 100px;
+text-align: center;
+color: hsl(200, 100%, 35%);
+padding: 50px;
+}
+#tirerendessous
+{
+  margin-left: 700px;
+  background-color:hsl(200, 100%, 35%); 
+  width: 200px;
+  border:none;
+}
+.item2
+{
+  display: grid;
+  grid-area: item2;
+
+}
+
+
+div div div ul li
+{
+  list-style-type: none;
+  padding-top: 15px;
+}
+.item5 > div
+{
+  display: inline;
+}
+
+.container/*.container izay ATAO AMBANY LAY SORTRA NY IMAGE*/
+{
+  position: relative;
+}
+ /*.top-right/.top-left/.... atao posuition absolute*/
+.topleft { position: absolute;}
+.topmiddle { position: absolute;}
+.topright { position: absolute;}
+.buttomleft { position: absolute;}
+.buttommiddle { position: absolute;}
+.buttomright { position: absolute;}
+
+.image_opacity
+{
+  opacity: 0.3;
+}
+
+.aucentre
+{
+  text-align: center;
+}
+.centered
+{
+  position: absolute;
+  bottom: 15px;
+  padding-left: 100px
+
+}
+.enbas3
+{
+  font-size: 100px;
+text-align: center;
+padding: 50px;
+color: #0000cc ;
+font-weight: bold;
+
+}
+
+.distri
+{
+  float: right;
+}
+.finFLOAT
+{
+  clear: both;
+  width: 100%;
+  height: auto;
+}
+.brout
+{
+  max-width: 100%;
+}
+footer
+{
+  background-color: teal;
+ }
+footer div
+{
+  padding: 20px;
+}
